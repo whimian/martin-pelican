@@ -1,4 +1,4 @@
-#Martin theme for Pelican static site generator
+# Martin theme for Pelican static site generator
 
 This is a port of the Martin theme by Allison House to work with the [Pelican static site generator](http://blog.getpelican.com/)
 
@@ -25,5 +25,3 @@ DISQUS_SITENAME = "your_site_name"
 ```
 
 Showcase your project in style with Martin, a bold, timeless theme for GitHub pages! Named for the punchcutter William Martin, apprentice to John Baskerville. This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/). Check out the [live demo](http://cpaulik.github.io/martin-pelican/).
-
-![Martin theme preview](https://raw.githubusercontent.com/cpaulik/martin-pelican/master/Pelican_martin_theme_preview.png)
